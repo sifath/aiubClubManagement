@@ -1,0 +1,9 @@
+﻿body {
+    width:80%;
+    margin:auto;
+    height: 336px;
+}
+
+#labelErrorMassege{
+    color:red;
+}
